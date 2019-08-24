@@ -16,7 +16,7 @@ public class Gravity {
         time = sc.nextDouble();
         speed = time * gravity;
         distance = .5 * gravity * time * time;
-        System.out.println("The speed of the object at " + time + " seconds after its release is" + speed + "and the distance the object has travelled in the" +time+ "seconds after the relase is" + distance);
+        System.out.println("The speed of the object at " + time + " seconds after its release is" + speed + "and the distance the object has travelled in the " +time+ " seconds after the relase is" + distance);
 	}
 	// P.S: Refer to the README.md file for the problem statement, input & output.
 }
